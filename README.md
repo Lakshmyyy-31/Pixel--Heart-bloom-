@@ -32,7 +32,6 @@ basic electric component
 
     **CIRCUIT DIAGRAM OF LED GREETING CARD** 
 
-**![][image1]**  
  ![simulation](Simulation.pdf)
                     
 
